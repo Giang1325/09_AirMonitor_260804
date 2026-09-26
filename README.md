@@ -93,6 +93,7 @@ Nhóm đánh giá khách quan: mô hình hiệu chuẩn hiện được xây d�
 - Mở rộng thu thập dữ liệu ở nhiều điều kiện môi trường để nâng cao độ tin cậy của mô hình hiệu chuẩn; thử nghiệm thêm các mô hình học máy khác (Random Forest, Gradient Boosting, XGBoost)
 - Phát triển chức năng cập nhật firmware từ xa (OTA) và dashboard giám sát trực quan
 - Mở rộng triển khai nhiều node đo kết nối về một máy chủ trung tâm, hướng tới mạng lưới quan trắc quy mô nhỏ
+- Sau khi hoàn thiện kiến thức nền tảng về ngắt (interrupt), bộ định thời (timer) và các ngoại vi trên phần cứng thật, tôi dự kiến tự triển khai lại phần điều khiển của hệ thống theo hướng lập trình thanh ghi trực tiếp (bare-metal), nhằm hiểu sâu hơn về kiến trúc và cơ chế vận hành của vi điều khiển ESP32.
 
 ## Ghi chú cấu hình
 
